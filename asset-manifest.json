@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.b99e7955.css",
-    "main.js": "/static/js/main.6d77d865.js",
+    "main.css": "/static/css/main.d1ef1350.css",
+    "main.js": "/static/js/main.99eb2bb5.js",
     "static/js/453.959afbf3.chunk.js": "/static/js/453.959afbf3.chunk.js",
+    "static/media/looping.gif": "/static/media/looping.c624896c4b22b9577488.gif",
     "static/media/HSS.jpg": "/static/media/HSS.87e892aea5b37540703a.jpg",
-    "static/media/HSS.png": "/static/media/HSS.1f4eca4da1420cb827b5.png",
+    "static/media/spinepicture.png": "/static/media/spinepicture.f01c040f72b929377bdf.png",
     "static/media/logimg.png": "/static/media/logimg.066b6d8d0bbea0ed5eaa.png",
     "static/media/boardcert.jpg": "/static/media/boardcert.b784594a695cc15ae80f.jpg",
     "static/media/who suffers.png": "/static/media/who suffers.eb8d081425f2b6b3f262.png",
@@ -21,12 +22,12 @@
     "static/media/certificate.png": "/static/media/certificate.998b9ecd1ac5ab077391.png",
     "static/media/review.png": "/static/media/review.a05fe4796a57cfa8b3f4.png",
     "index.html": "/index.html",
-    "main.b99e7955.css.map": "/static/css/main.b99e7955.css.map",
-    "main.6d77d865.js.map": "/static/js/main.6d77d865.js.map",
+    "main.d1ef1350.css.map": "/static/css/main.d1ef1350.css.map",
+    "main.99eb2bb5.js.map": "/static/js/main.99eb2bb5.js.map",
     "453.959afbf3.chunk.js.map": "/static/js/453.959afbf3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b99e7955.css",
-    "static/js/main.6d77d865.js"
+    "static/css/main.d1ef1350.css",
+    "static/js/main.99eb2bb5.js"
   ]
 }
